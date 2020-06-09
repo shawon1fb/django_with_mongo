@@ -1,0 +1,7 @@
+echo "# django_with_mongo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/shawon1fb/django_with_mongo.git
+git push -u origin master
+                
